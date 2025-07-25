@@ -1,0 +1,5 @@
+com\codeunsocial\inventory_service\Controller\InventoryController.class
+com\codeunsocial\inventory_service\service\InventoryService.class
+com\codeunsocial\inventory_service\Repository\InventoryRepository.class
+com\codeunsocial\inventory_service\InventoryServiceApplication.class
+com\codeunsocial\inventory_service\model\Inventory.class

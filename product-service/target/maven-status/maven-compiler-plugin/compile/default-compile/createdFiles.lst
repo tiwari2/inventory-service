@@ -1,0 +1,10 @@
+com\codeunsocial\product_service\dto\ProductRequest.class
+com\codeunsocial\product_service\ProductServiceApplication.class
+com\codeunsocial\product_service\Repository\ProductRepository.class
+com\codeunsocial\product_service\dto\ProductResponse$ProductResponseBuilder.class
+com\codeunsocial\product_service\service\ProductService.class
+com\codeunsocial\product_service\dto\ProductRequest$ProductRequestBuilder.class
+com\codeunsocial\product_service\dto\ProductResponse.class
+com\codeunsocial\product_service\Model\Product$ProductBuilder.class
+com\codeunsocial\product_service\Model\Product.class
+com\codeunsocial\product_service\Controller\ProductController.class
